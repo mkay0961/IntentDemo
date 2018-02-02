@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">IntentDemo</string>
+    <string name="button">Set background</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="supermoon">supermoon</string>
+    <string name="waterfall">waterfall</string>
+
+</resources>
